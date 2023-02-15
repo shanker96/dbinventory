@@ -1,0 +1,14 @@
+name: Group11_InventoryManagement
+title: Group11_InventoryManagement
+username:
+account: shankern
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7756904
+bundleId: 6566342
+url: https://shankern.shinyapps.io/Group11_InventoryManagement/
+when: 1669707808.95445
+lastSyncTime: 1669707808.95446
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|1.jpg|DB CSV.zip|DB XLS.zip|final_draft.txt|home.css|home.html|image.jpg|Inventory Management System.docx|ppt.png|rough_draft.txt|scritps.js|stocks.pdf|ui.txt|DB CSV
