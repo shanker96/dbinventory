@@ -5,7 +5,7 @@
 - To design and implement a database that connects multiple store outlets, tracks sales, orders, and shipments, and provides insights on inventory turnover to avoid supply shortages.
 - To increase inventory turnover, customer satisfaction, and sales growth.
 
-##Approach
+## Approach
 
 - Designed and implemented backend and frontend using SQL and R Shiny to create a database that connects multiple store outlets and tracks sales, orders, and shipments.
 - Implemented functions for inventory managers to receive and record new goods, inventory workers to track purchases and shipments, and store managers to control stock and sales at the store level.
