@@ -37,3 +37,6 @@
 - The project was successful in designing and implementing a database that connects multiple store outlets, tracks sales, orders, and shipments, and provides insights on inventory turnover to avoid supply shortages.
 - The shiny app and its various tabs and functions enhanced user accessibility and ease of use.
 - The project resulted in increased inventory turnover, customer satisfaction, and sales growth, improving the efficiency of inventory management processes.
+
+https://user-images.githubusercontent.com/20686097/233820746-650469de-f5a9-4734-add9-1b7b51ef0eb7.mp4
+
