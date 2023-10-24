@@ -489,8 +489,6 @@ server <- function(input, output) {
         # # to <- "shankern@smu.edu"
         # # subject <- paste("ITEM BELOW THRESHOLD FOR PRODUCT ID:",input$update_pid);
         # # msg <- paste("ITEM QUANTITY: ",current," ITEM THRESHOLD: ",threshold," ORDER NEW STOCKS");
-        # sender <- "anavarasramuk96@gmail.com"
-        # recipients <- c("shankern@smu.edu")
         # 
         # send.mail(from = sender,
         #           to = recipients,
@@ -500,10 +498,7 @@ server <- function(input, output) {
         #             # smtp.host="smtp.yahoo.com",
         #             # smtp.port=587,
         #             # smtp.ssl="yes",
-        #             # smtp.user="anavarasramuk96@gmail.com",
-        #             # smtp.password="Shan@3569",
         #             host.name = "smtp.yahoo.com", port = 465,
-        #             user.name="anavarasramuk96@gmail.com", passwd="Shan@3569", 
         #             ssl=TRUE),
         #           authenticate = TRUE,
         #           send = TRUE)
